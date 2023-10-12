@@ -7,7 +7,8 @@ using System.Threading.Tasks;
 namespace claculadoralogica.Servicios
 {
     /// <summary>
-    /// 
+    /// Clase de la logica con los metodos logicos
+    ///  @autor jpr - 121023
     /// </summary>
     internal class LogicaImplementacion : LogicaInterfaz
     {
