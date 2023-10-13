@@ -29,7 +29,7 @@ namespace claculadoralogica
                 {
                     case 0:
                         Console.WriteLine("[INFO]-Se cerrara la aplicacion.");
-                        cerrarMenu |= true; 
+                        cerrarMenu = true; 
                         break;
                     case 1:
                         Console.WriteLine("[INFO]-Comprobará si las palabras escritas son iguales.");
